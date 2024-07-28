@@ -1,0 +1,1 @@
+cp E:\Workdir\dotfiles\glazewm\config\config.yaml "c:$env:HOMEPATH\.glaze-wm\" 
